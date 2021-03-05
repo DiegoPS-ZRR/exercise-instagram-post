@@ -1,0 +1,80 @@
+.post {
+
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    align-items: center;
+}
+
+.logo {
+    
+}
+
+.user {
+    flex-grow: 1;
+    margin-left: 10px;
+}
+
+.more {
+
+}
+
+.yoda{
+    width: 100%;
+    height: auto;
+}
+
+.footer {
+    
+}
+
+.actions {
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    align-items: center;
+}
+
+.like {
+
+}
+
+.comment {
+    margin-left: 10px;
+}
+
+.send {
+    flex-grow: 1;
+    margin-left: 10px;
+}
+
+.save {
+
+}
+
+.info {
+
+}
+
+.text-info {
+    color: indigo;
+}
+
+.description {
+
+}
+
+.footer-description {
+    color: darkblue;
+}
+
+.fas, .fab {
+    font-size: 40px;
+}
+
+p {
+    color: green;
+}
